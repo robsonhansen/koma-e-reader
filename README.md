@@ -1,10 +1,10 @@
-# 📚 Koma E-Reader
+# Koma E-Reader
 
 > Leitor de e-books, mangás e HQs leve, moderno e de alta performance desenvolvido com Electron, React e TypeScript.
 
 ---
 
-## 🚀 Sobre o Projeto
+## Sobre o Projeto
 
 O **Koma E-Reader** é uma aplicação desktop para gerenciamento e leitura de biblioteca digital. O projeto foi projetado com foco em performance, persistência local de dados e suporte a formatos de livros e quadrinhos.
 
@@ -19,7 +19,7 @@ O **Koma E-Reader** é uma aplicação desktop para gerenciamento e leitura de b
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```text
 koma-e-reader/
@@ -38,7 +38,7 @@ koma-e-reader/
 
 ---
 
-## 🔧 Instalação e Execução
+## Instalação e Execução
 
 ### 1. Instalar Dependências
 
